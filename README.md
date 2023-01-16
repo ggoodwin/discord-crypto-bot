@@ -10,7 +10,7 @@
 
 ## 🌟 How it works
 
-We use the [`Yahoo!`](https://external.ink?to=https://finance.yahoo.com/crypto/) API to gather real time crypto currency data.
+We use the [`Yahoo!`](https://finance.yahoo.com/crypto/) API to gather real time crypto currency data.
 
 ## 📦 Installation and Usage
 

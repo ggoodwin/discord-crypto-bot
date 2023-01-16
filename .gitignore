@@ -23,3 +23,4 @@ go.work
 # Custom
 .markdownlint.json
 /config.json
+.vscode

@@ -13,7 +13,7 @@ and this project adheres to [Semantic Versioning].
 
 ### Added
 
-- `PriceAndPercentage` function to lookup a specific crypto currency and return the price and percentage change in the last 24 hours.
+- `PriceAndPercentage` function to look up a specific cryptocurrency and return the price and percentage change in the last 24 hours.
 
 ### Changed
 

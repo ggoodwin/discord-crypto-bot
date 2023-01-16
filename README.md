@@ -74,7 +74,6 @@ Run the following command to run the bot
 - [bwmarrin's DiscordGo](https://github.com/bwmarrin/discordgo)
 - [OctoLibs Stocks](https://github.com/octolibs/stocks)
 
-
 ## 🙇‍♂️ Issues and Contributing
 
 If you find an issue with this library, please report an issue. If you'd

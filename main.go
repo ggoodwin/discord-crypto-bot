@@ -100,7 +100,7 @@ func Start() {
  */
 func createMessage() string {
 	price, percent, direction := stocks.GetPriceAndPercentage(CryptoTicker)
-	return fmt.Sprintf("$%s%s %s%%", price, direction, percent)
+	return fmt.Sprintf("%s %s %s", price, direction, percent)
 }
 
 /**

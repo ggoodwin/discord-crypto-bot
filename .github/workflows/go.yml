@@ -5,9 +5,9 @@ name: Go
 
 on:
   push:
-    branches: ["main"]
+    branches: ["master"]
   pull_request:
-    branches: ["main"]
+    branches: ["master"]
 
 jobs:
   build:
@@ -34,3 +34,6 @@ jobs:
 
       - name: Test
         run: go test plugin
+
+      - name: Upload coverage reports to Codecov
+        uses: codecov/codecov-action@v3

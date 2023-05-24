@@ -73,7 +73,7 @@ Run the following command to run the bot
 
 - [bwmarrin's DiscordGo](https://github.com/bwmarrin/discordgo)
 - [My go-nyse-stocks Package](https://github.com/ggoodwin/go-nyse-stocks)
-- [gorilla's WebSocket](github.com/gorilla/websocket)
+- [gorilla's WebSocket](https://github.com/gorilla/websocket)
 
 ## 🙇‍♂️ Issues and Contributing
 

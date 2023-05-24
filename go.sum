@@ -1,9 +1,9 @@
 github.com/bwmarrin/discordgo v0.26.1 h1:AIrM+g3cl+iYBr4yBxCBp9tD9jR3K7upEjl0d89FRkE=
 github.com/bwmarrin/discordgo v0.26.1/go.mod h1:NJZpH+1AfhIcyQsPeuBKsUtYrRnjkyu0kIVMCHkZtRY=
+github.com/ggoodwin/go-nyse-stocks v1.0.1 h1:w9wPwTLzi6PXGYRlaQNZuOxtSFkMPcbkUux5eW9Rdm0=
+github.com/ggoodwin/go-nyse-stocks v1.0.1/go.mod h1:S0/tcJ3WZkDVUYvgJdNpUshbZZI0FE23VZv6JzqEiLA=
 github.com/gorilla/websocket v1.4.2 h1:+/TMaTYc4QFitKJxsQ7Yye35DkWvkdLcvGKqM+x0Ufc=
 github.com/gorilla/websocket v1.4.2/go.mod h1:YR8l580nyteQvAITg2hZ9XVh4b55+EU/adAjf1fMHhE=
-github.com/octolibs/stocks v0.0.0-20230116182747-79cfbac8eeed h1:XtzQ957ZohiRL1/R8ZvWM/76hqEOGMM+fUTaARUVohU=
-github.com/octolibs/stocks v0.0.0-20230116182747-79cfbac8eeed/go.mod h1:ZVPOMlFhtQ40SQexhyWHetV+cMrIJrwQW1xKfZ+LoD8=
 golang.org/x/crypto v0.0.0-20210421170649-83a5a9bb288b h1:7mWr3k41Qtv8XlltBkDkl8LoP3mpSgBW8BUoxtEdbXg=
 golang.org/x/crypto v0.0.0-20210421170649-83a5a9bb288b/go.mod h1:T9bdIzuCu7OtxOm1hfPfRQxPLYneinmdGuTeoZ9dtd4=
 golang.org/x/net v0.0.0-20210226172049-e18ecbb05110/go.mod h1:m0MpNAwzfU5UDzcl9v0D8zg8gWTRqZa9RBIspLL5mdg=

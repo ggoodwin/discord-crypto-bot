@@ -7,7 +7,7 @@ import (
 	"time"
 
 	"github.com/bwmarrin/discordgo"
-	"github.com/octolibs/stocks"
+	nyse_stocks "github.com/ggoodwin/go-nyse-stocks"
 )
 
 /** Globals
@@ -99,7 +99,7 @@ func Start() {
  * * Creates the actual playing message
  */
 func createMessage() string {
-	price, percent, direction := stocks.GetPriceAndPercentage(CryptoTicker)
+	price, percent, direction := nyse_stocks.GetPriceAndPercentage(CryptoTicker)
 	return fmt.Sprintf("%s %s %s", price, direction, percent)
 }
 
